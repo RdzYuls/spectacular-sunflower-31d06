@@ -25,7 +25,7 @@ sections:
     title: About me
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: View MORE
         url: blog/index.html
         style: button
 seo:
