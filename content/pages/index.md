@@ -15,13 +15,6 @@ sections:
       Interested in mix technology and digital development with social science.
       Experience in research, project management, data analysis, and
       visualization.
-
-
-      ✅ My strengths: assertive communication, leadership, problem-solving,
-      creative and innovation.
-
-
-      ✅ Experience and love of working with global teams.
     actions:
       - label: Contact Me
         url: /contact
