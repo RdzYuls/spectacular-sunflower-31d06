@@ -10,7 +10,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >+
+    content: >
       Internationalist with a master's in Governance and Human Rights.
       Interested in mix technology and digital development with social science.
       Experience in research, project management, data analysis, and
@@ -22,7 +22,6 @@ sections:
 
 
       ✅ Experience and love of working with global teams.
-
     actions:
       - label: Contact Me
         url: /contact
