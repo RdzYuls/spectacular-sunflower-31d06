@@ -4,7 +4,7 @@ excerpt: "I have a Degree\_(Cum Laude)\_in International Relations at the Merito
 date: '2019-03-27'
 thumb_img_path: /images/atlas-1052011_1920.jpg
 thumb_img_alt: Icelandic horses
-content_img_path: images/7.jpg
+content_img_path: /images/atlas-1052011_1920.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
