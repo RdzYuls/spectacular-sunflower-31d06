@@ -16,7 +16,7 @@ seo:
       value: My education
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: /images/atlas-1052011_1920.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
