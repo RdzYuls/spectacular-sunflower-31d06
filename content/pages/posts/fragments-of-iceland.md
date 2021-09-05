@@ -8,7 +8,6 @@ content_img_path: /images/atlas-1052011_1920.jpg
 content_img_alt: Icelandic horses
 seo:
   title: My education
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
       value: article
