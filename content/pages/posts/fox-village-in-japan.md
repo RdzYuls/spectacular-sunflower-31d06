@@ -44,6 +44,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: post
+title: Research
 ---
 
 Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
