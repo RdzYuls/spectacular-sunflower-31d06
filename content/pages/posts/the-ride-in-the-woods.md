@@ -1,8 +1,6 @@
 ---
 subtitle: A cautionary tale about riding
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+excerpt: I have coordinate many projects in my life.
 date: '2018-01-23'
 thumb_img_path: images/3.jpg
 thumb_img_alt: A motorcycle in a forest
