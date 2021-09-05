@@ -1,9 +1,6 @@
 ---
 title: My education
-excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+excerpt: "I have a Degree\_(Cum Laude)\_in International Relations at the Meritorious Autonomous University of Puebla, and also a Master's (Distinction) in Governance and Human Rights at the Autonomous University of Madrid."
 date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
