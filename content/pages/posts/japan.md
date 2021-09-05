@@ -1,10 +1,8 @@
 ---
 title: My experience
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  I have experience in the Private Sector (Simec Group), Government Sector
+  (SRE), and Third Sector (The Spanish Volunteering Platform).
 date: '2019-03-24'
 thumb_img_path: /images/digital-marketing-1433427_1920.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
