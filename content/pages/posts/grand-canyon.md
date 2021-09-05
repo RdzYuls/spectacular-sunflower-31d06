@@ -39,5 +39,17 @@ seo:
       relativeUrl: true
 layout: post
 ---
-![](/images/Skills%201.PNG)
+![](/images/sk1-69e63fac.PNG)
+
+
+
+
+
+
+
+
+
+![](/images/sk2-ffbec334.PNG)
+
+
 
