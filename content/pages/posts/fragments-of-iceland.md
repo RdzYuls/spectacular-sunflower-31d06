@@ -15,11 +15,6 @@ seo:
     - name: 'og:title'
       value: My education
       keyName: property
-    - name: 'og:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
-      keyName: property
     - name: 'og:image'
       value: images/7.jpg
       keyName: property
