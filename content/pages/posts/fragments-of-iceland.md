@@ -66,10 +66,10 @@ Aug 2013 - Jun 2018
 
 Thesis: The Pacific Alliance in the International Cooperation: first steps towards deep integration?
 
-
+##
 
 ## The Pontifical Xaverian University (Bogotá)
 
-### Study Abroad Program (Degree in International Relations)
+#### Study Abroad Program (Degree in International Relations)
 
 Jan 2017 - Jun 2017
