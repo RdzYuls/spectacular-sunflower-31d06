@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: My experience
 subtitle: lorem-ipsum
 date: '2021-09-05'
 thumb_img_alt: lorem-ipsum
